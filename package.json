@@ -3,10 +3,10 @@
     "version": "0.0.0",
     "description": "A yeoman generator which combines the best features and practices to initialise and scaffold an AngularJS based cordova app",
     "license": "MIT",
-    "homepage": "https://github.com/Hancoson/yo_angular",
+    "homepage": "https://github.com/Hancoson/grunt-less-watch",
     "repository": {
         "type": "git",
-        "url": "git@github.com:Hancoson/yo_angular.git"
+        "url": "git@github.com:Hancoson/grunt-less-watch.git"
     },
     "author": {
         "name": "Hancoson",
